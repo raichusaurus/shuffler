@@ -1,9 +1,15 @@
-package org.airbrontosaurus.john.model;
+package org.airbrontosaurus.john.gradler.model;
 
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement
 public class Card {
 
     private Suit suit;
     private CardValue cardValue;
+
+    public Card() {
+    }
 
     public Card(Suit suit, CardValue cardValue) {
         this.suit = suit;

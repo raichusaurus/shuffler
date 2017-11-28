@@ -1,4 +1,4 @@
-package org.airbrontosaurus.john.model;
+package org.airbrontosaurus.john.gradler.model;
 
 public enum Suit {
 
