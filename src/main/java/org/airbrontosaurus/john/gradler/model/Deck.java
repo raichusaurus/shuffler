@@ -22,7 +22,7 @@ public class Deck {
     }
 
     private Deck(boolean isEmpty) {
-        shuffler = new ComputerShuffler();
+        shuffler = new HumanShuffler();
         cards = new ArrayList<Card>();
 
         if (!isEmpty) {

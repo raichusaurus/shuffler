@@ -19,12 +19,6 @@ public class DeckResource {
         return deckService.getAllDecks();
     }
 
-    @GET
-    @Produces(MediaType.TEXT_PLAIN)
-    public String getIt() {
-    return "Got it!";
-}
-
     // return a specific deck
     @GET
     @Path("/{deck}")

@@ -4,5 +4,5 @@ import java.util.List;
 
 public interface Shuffler {
 
-    public List<Card> shuffle(List<Card> cards);
+    List<Card> shuffle(List<Card> cards);
 }
