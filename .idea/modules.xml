@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shuffler.iml" filepath="$PROJECT_DIR$/.idea/modules/shuffler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shuffler_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shuffler_main.iml" group="shuffler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shuffler_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shuffler_test.iml" group="shuffler" />
+    </modules>
+  </component>
+</project>
