@@ -33,9 +33,9 @@ public enum  CardValue {
             case QUEEN:
                 return "Q";
             case KING:
-                return "J";
+                return "K";
             default:
-                    return "Joker";
+                return "Joker";
     }
 }
 }
